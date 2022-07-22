@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.redlimerl.mc.autocraftable.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinClientPlayNetworkHandler"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

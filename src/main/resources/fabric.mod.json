@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "auto_craftable",
+  "version": "${version}",
+  "name": "AutoCraftable",
+  "description": "",
+  "authors": [
+    "RedLime"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [
+    "AutoCraftable.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.1"
+  }
+}
