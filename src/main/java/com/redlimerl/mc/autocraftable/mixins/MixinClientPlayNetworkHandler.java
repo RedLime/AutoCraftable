@@ -51,6 +51,4 @@ public class MixinClientPlayNetworkHandler {
                 networkHandler.sendPacket(new RecipeBookDataC2SPacket(false, false, false, false, false, false));
         }
     }
-
-
 }
